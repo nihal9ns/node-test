@@ -1,0 +1,10 @@
+{
+    "travis": {
+        "enabled": true
+    },
+    "node": {
+        "supportPolicy": [
+            "all"
+        ]
+    }
+}

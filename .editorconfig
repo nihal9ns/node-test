@@ -1,0 +1,5 @@
+root = true
+
+[*]
+# Use tabs, because tabs are the superior choice
+indent_style = tab
